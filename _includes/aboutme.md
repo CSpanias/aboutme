@@ -2,8 +2,6 @@
 layout: default
 ---
 
-{% include aboutme.md %}
-
 <img src="https://avatars.githubusercontent.com/u/78966278?v=4" alt="drawing" width="15%"/>  
 
 [LinkedIn](https://www.linkedin.com/in/charalamposspanias/) | [Kaggle](https://www.kaggle.com/cspanias) | [Chess](https://www.chess.com/member/spaniasch) | [BJJ](https://smoothcomp.com/en/profile/101916)  
