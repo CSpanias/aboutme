@@ -4,8 +4,8 @@
 spaniascharalampos@gmail.com  
 
 #### Tools: 
-- Python (pandas, numpy, sklearn, seaborn, matplotlib, scipy)
-- Git
+- Python (pandas, numpy, sklearn, seaborn, matplotlib, scipy, tensorflow, keras)
+- Git/GitHub
 - Microsoft Office
 - R
 
@@ -13,15 +13,14 @@ spaniascharalampos@gmail.com
 
 <img src="https://pic.onlinewebfonts.com/svg/img_216768.png" alt="studying" width="3%"/> 
 
-- [Data Analysis & Simulation](https://www.hw.ac.uk/) (PGDip), HWU, 2021-2022    
-- [Data Science](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38) (BSc), OU, 2021-2024  
-- [Machine Learning](https://www.coursera.org/learn/machine-learning) 
-- [Skills Bootcamp in Artificial Intelligence](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/)  
+- [Intro to Machine Learning with TensorFlow (Scholarship receiver)](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)  
+- [Skills Bootcamp in Artificial Intelligence](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/) 
+- [Data Science (BSc)](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38)  
 
 <img src="https://www.clipartmax.com/png/full/218-2188573_reading-filled-icon-reading-logo-black-png.png" alt="reading" width="3%" />  
 
 - [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e)  
-- [Machine Learning for Absolute Beginners](https://www.goodreads.com/book/show/38886623-machine-learning-for-absolute-beginners)  
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)  
 - [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/)  
 
 <img src="https://datarespons.com/wp-content/uploads/2019/01/podcast-icon.png" alt="podcast" width="3%" />  
