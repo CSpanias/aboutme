@@ -6,6 +6,7 @@ spaniascharalampos@gmail.com
 #### Tools: 
 - Python (pandas, numpy, sklearn, seaborn, matplotlib, scipy, tensorflow, keras)
 - Git/GitHub
+- Jupyter Notebook / Google Colab
 - Microsoft Office
 - R
 
@@ -19,15 +20,22 @@ spaniascharalampos@gmail.com
 
 <img src="https://www.clipartmax.com/png/full/218-2188573_reading-filled-icon-reading-logo-black-png.png" alt="reading" width="3%" />  
 
-- [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e)  
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)  
 - [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/)  
 
 <img src="https://datarespons.com/wp-content/uploads/2019/01/podcast-icon.png" alt="podcast" width="3%" />  
-
-- [Machine Learning Guide](https://ocdevel.com/mlg)   
+   
 - [Talking Machines](http://www.thetalkingmachines.com/)  
 - [Learning Machines 101](https://www.learningmachines101.com/)  
+
+<img src="https://www.pngitem.com/pimgs/m/453-4536097_recommended-land-recommended-icon-png-transparent-png.png" alt="recommended" width="3%" />
+
+**Introductory**:
+- [Machine Learning Guide](https://ocdevel.com/mlg)
+- [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e)
+- [Machine Learning for Absolute Beginners](https://www.amazon.co.uk/Machine-Learning-Absolute-Beginners-Introduction/dp/B08RR7GC3C/ref=pd_lpo_1?pd_rd_i=B08RR7GC3C&psc=1)
+- [Sololearn: Machine Learning Course](https://www.sololearn.com/learning/1094)
+
 
 #### Publications:
 - Position before submission? Techniques and tactics in competitive no-gi Brazilian Jiu-Jitsu (Under review)
