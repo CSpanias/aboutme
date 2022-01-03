@@ -23,17 +23,20 @@ spaniascharalampos@gmail.com
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)  
 - [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/)  
 
+**Recommended**:
+- [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e)
+- [Machine Learning for Absolute Beginners](https://www.amazon.co.uk/Machine-Learning-Absolute-Beginners-Introduction/dp/B08RR7GC3C/ref=pd_lpo_1?pd_rd_i=B08RR7GC3C&psc=1)
+
 <img src="https://datarespons.com/wp-content/uploads/2019/01/podcast-icon.png" alt="podcast" width="3%" />  
    
 - [Talking Machines](http://www.thetalkingmachines.com/)  
 - [Learning Machines 101](https://www.learningmachines101.com/)  
 
+**Recommended**:
+- [Machine Learning Guide](https://ocdevel.com/mlg)
+
 <img src="https://www.pngitem.com/pimgs/m/453-4536097_recommended-land-recommended-icon-png-transparent-png.png" alt="recommended" width="3%" />
 
-**Introductory**:
-- [Machine Learning Guide](https://ocdevel.com/mlg)
-- [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e)
-- [Machine Learning for Absolute Beginners](https://www.amazon.co.uk/Machine-Learning-Absolute-Beginners-Introduction/dp/B08RR7GC3C/ref=pd_lpo_1?pd_rd_i=B08RR7GC3C&psc=1)
 - [Sololearn: Machine Learning Course](https://www.sololearn.com/learning/1094)
 
 
