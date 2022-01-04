@@ -4,7 +4,7 @@
 spaniascharalampos@gmail.com  
 
 #### Tools: 
-- Python (pandas, numpy, sklearn, seaborn, matplotlib, scipy, tensorflow, keras)
+- Python (pandas, numpy, sklearn, nltk, seaborn, matplotlib, scipy, tensorflow, keras)
 - Git/GitHub
 - Jupyter Notebook / Google Colab
 - Microsoft Office
@@ -14,18 +14,15 @@ spaniascharalampos@gmail.com
 
 <img src="https://pic.onlinewebfonts.com/svg/img_216768.png" alt="studying" width="3%"/> 
 
-- [Intro to Machine Learning with TensorFlow (Scholarship receiver)](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)  
-- [Skills Bootcamp in Artificial Intelligence](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/) 
-- [Data Science (BSc)](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38)  
+- [Building Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python), *CodeAcademyPro*
+- [Intro to Machine Learning with TensorFlow (Scholarship receiver)](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230), *University of Bertelsmann & Udacity*  
+- [Skills Bootcamp in Artificial Intelligence](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/), *University of Huddersfield & Institute of Coding*
+- [Data Science (BSc)](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38), *Open University*
 
 <img src="https://www.clipartmax.com/png/full/218-2188573_reading-filled-icon-reading-logo-black-png.png" alt="reading" width="3%" />  
 
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)  
 - [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/)  
-
-**Recommended**:
-- [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e)
-- [Machine Learning for Absolute Beginners](https://www.amazon.co.uk/Machine-Learning-Absolute-Beginners-Introduction/dp/B08RR7GC3C/ref=pd_lpo_1?pd_rd_i=B08RR7GC3C&psc=1)
 
 <img src="https://datarespons.com/wp-content/uploads/2019/01/podcast-icon.png" alt="podcast" width="3%" />  
    
@@ -33,12 +30,10 @@ spaniascharalampos@gmail.com
 - [Learning Machines 101](https://www.learningmachines101.com/)  
 
 **Recommended**:
+- [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e)
+- [Machine Learning for Absolute Beginners](https://www.amazon.co.uk/Machine-Learning-Absolute-Beginners-Introduction/dp/B08RR7GC3C/ref=pd_lpo_1?pd_rd_i=B08RR7GC3C&psc=1)
 - [Machine Learning Guide](https://ocdevel.com/mlg)
-
-<img src="https://www.pngitem.com/pimgs/m/453-4536097_recommended-land-recommended-icon-png-transparent-png.png" alt="recommended" width="3%" />
-
 - [Sololearn: Machine Learning Course](https://www.sololearn.com/learning/1094)
-
 
 #### Publications:
 - Position before submission? Techniques and tactics in competitive no-gi Brazilian Jiu-Jitsu (Under review)
@@ -46,6 +41,7 @@ spaniascharalampos@gmail.com
 
 #### Interested in: 
 - Machine Learning
+- Natural Language Processing
 - Artificial Intelligence
 - Combat Sports
 - Statistics
