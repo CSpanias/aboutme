@@ -14,7 +14,9 @@ spaniascharalampos@gmail.com
 
 <img src="https://pic.onlinewebfonts.com/svg/img_216768.png" alt="studying" width="3%"/> 
 
-- [Building Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python), *CodeAcademyPro*
+- [AWS: Machine Learning Foundations](https://www.futurelearn.com/microcredentials/aws-machine-learning-foundations), *Open University*
+- [Data Science Professional Development Award](https://www.edinburghcollege.ac.uk/courses/browse/data-science-professional-development-award-cr1pdada21), *Edinburgh College*
+- [Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science), *Codecademy*
 - [Intro to Machine Learning with TensorFlow (Scholarship receiver)](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230), *University of Bertelsmann & Udacity*  
 - [Skills Bootcamp in Artificial Intelligence](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/), *University of Huddersfield & Institute of Coding*
 - [Data Science (BSc)](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38), *Open University*
@@ -34,6 +36,7 @@ spaniascharalampos@gmail.com
 - [Machine Learning for Absolute Beginners](https://www.amazon.co.uk/Machine-Learning-Absolute-Beginners-Introduction/dp/B08RR7GC3C/ref=pd_lpo_1?pd_rd_i=B08RR7GC3C&psc=1)
 - [Machine Learning Guide](https://ocdevel.com/mlg)
 - [Sololearn: Machine Learning Course](https://www.sololearn.com/learning/1094)
+- [Building Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python), *CodeAcademyPro*
 
 #### Publications:
 - Position before submission? Techniques and tactics in competitive no-gi Brazilian Jiu-Jitsu (Under review)
