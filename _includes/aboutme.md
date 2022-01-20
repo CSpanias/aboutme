@@ -4,11 +4,12 @@
 spaniascharalampos@gmail.com  
 
 #### Tools: 
-- Python (pandas, numpy, sklearn, nltk, seaborn, matplotlib, scipy, tensorflow, keras)
-- Git/GitHub
+- Python (pandas, numpy, sklearn, nltk, gensim, spacy, re, seaborn, matplotlib, scipy, tensorflow, keras)
+- Git/GitHub/DogsHub
 - Jupyter Notebook / Google Colab
 - Microsoft Office
 - R
+- SQL
 
 #### Currently busy with:
 
