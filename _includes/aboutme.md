@@ -3,20 +3,20 @@
 [LinkedIn](https://www.linkedin.com/in/charalamposspanias/) | [Kaggle](https://www.kaggle.com/cspanias) | [Chess](https://www.chess.com/member/spaniasch) | [BJJ](https://smoothcomp.com/en/profile/101916)  
 spaniascharalampos@gmail.com  
 
-#### Tools: 
+### Tools: 
 - Python <br>
 *pandas, numpy, sklearn, nltk, gensim, spacy, re, seaborn, matplotlib, scipy, tensorflow, keras*
-- Version Control Systems
+- Version Control Systems <br>
 *Git, GitHub, DogsHub*
-- Notebooks
+- Notebooks <br>
 *Jupyter Notebook, Google Colab*
-- Microsoft Office
+- Microsoft Office <br>
 *Word, Excel, Powerpoint, Access*
 - R
 - SQL
 - AWS
 
-#### Currently busy with:
+### Currently busy with:
 
 <img src="https://pic.onlinewebfonts.com/svg/img_216768.png" alt="studying" width="3%"/> 
 
@@ -43,18 +43,18 @@ spaniascharalampos@gmail.com
 - [Talking Machines](http://www.thetalkingmachines.com/)  
 - [Learning Machines 101](https://www.learningmachines101.com/)  
 
-**Recommended**:
+### Recommended:
 - [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e)
 - [Machine Learning for Absolute Beginners](https://www.amazon.co.uk/Machine-Learning-Absolute-Beginners-Introduction/dp/B08RR7GC3C/ref=pd_lpo_1?pd_rd_i=B08RR7GC3C&psc=1)
 - [Machine Learning Guide](https://ocdevel.com/mlg)
 - [Sololearn: Machine Learning Course](https://www.sololearn.com/learning/1094)
 - [Building Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python)
 
-#### Publications:
+### Publications:
 - Position before submission? Techniques and tactics in competitive no-gi Brazilian Jiu-Jitsu (Under review)
 - [Anthropometric and Physiological Profile of Mixed Martial Art Athletes: A Brief Review](https://www.mdpi.com/2075-4663/7/6/146) (2019)  
 
-#### Interested in: 
+### Interested in: 
 - Data Science
 - Machine Learning
 - Natural Language Processing
