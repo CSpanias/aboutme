@@ -3,9 +3,11 @@
 [LinkedIn](https://www.linkedin.com/in/charalamposspanias/) | [Kaggle](https://www.kaggle.com/cspanias) | [Chess](https://www.chess.com/member/spaniasch) | [BJJ](https://smoothcomp.com/en/profile/101916)  
 spaniascharalampos@gmail.com  
 
+Feel free to grab a copy of my [resume](https://drive.google.com/file/d/17Y6Hei_8lsfzucPdsK4FBWoI6u5EldIt/view?usp=sharing) while you are here.
+
 ### Tools: 
 - Python <br>
-*pandas, numpy, sklearn, nltk, gensim, spacy, re, seaborn, matplotlib, scipy, tensorflow, keras*
+*pandas, numpy, sklearn, nltk, gensim, spacy, re, seaborn, matplotlib, scipy, tensorflow, keras, beautifulsoup*
 - Version Control Systems <br>
 *Git, GitHub, DogsHub*
 - Notebooks <br>
