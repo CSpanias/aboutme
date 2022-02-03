@@ -3,7 +3,7 @@
 [LinkedIn](https://www.linkedin.com/in/charalamposspanias/) | [Kaggle](https://www.kaggle.com/cspanias) | [Chess](https://www.chess.com/member/spaniasch) | [BJJ](https://smoothcomp.com/en/profile/101916)  
 spaniascharalampos@gmail.com  
 
-Feel free to grab a copy of my [resume](https://drive.google.com/file/d/17Y6Hei_8lsfzucPdsK4FBWoI6u5EldIt/view?usp=sharing) while you are here.
+Feel free to grab a copy of my [resume](https://drive.google.com/file/d/10_o6X0mdp6ivJW7FZl-7LnuP01U0OtPI/view?usp=sharing) while you are here.
 
 ### Tools: 
 - Python <br>
