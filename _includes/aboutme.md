@@ -7,7 +7,7 @@ Feel free to grab a copy of my [resume](https://drive.google.com/file/d/17Y6Hei_
 
 ### Tools: 
 - Python <br>
-*pandas, numpy, sklearn, nltk, gensim, spacy, re, seaborn, matplotlib, scipy, tensorflow, keras, beautifulsoup*
+*pandas, numpy, sklearn, nltk, gensim, spacy, re, seaborn, matplotlib, scipy, tensorflow, keras, beautifulsoup, sqlite3*
 - Version Control Systems <br>
 *Git, GitHub, DogsHub*
 - Notebooks <br>
