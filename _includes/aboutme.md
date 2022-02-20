@@ -24,8 +24,6 @@ Feel free to grab a copy of my [resume](https://drive.google.com/file/d/10_o6X0m
 
 - [AWS: Machine Learning Foundations](https://www.futurelearn.com/microcredentials/aws-machine-learning-foundations) <br>
 *Open University & Future Learn*
-- [Data Science Professional Development Award](https://www.edinburghcollege.ac.uk/courses/browse/data-science-professional-development-award-cr1pdada21) <br>
-*Edinburgh College*
 - [Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science) <br>
 *Codecademy*
 - [Intro to Machine Learning with TensorFlow (Scholarship receiver)](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) <br>
@@ -37,8 +35,8 @@ Feel free to grab a copy of my [resume](https://drive.google.com/file/d/10_o6X0m
 
 <img src="https://www.clipartmax.com/png/full/218-2188573_reading-filled-icon-reading-logo-black-png.png" alt="reading" width="3%" />  
 
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)  
-- [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/)  
+- [Deep Learning with Python (2nd Ed.)](https://www.manning.com/books/deep-learning-with-python)  
+- [NLTK](https://www.nltk.org/book/)  
 
 <img src="https://datarespons.com/wp-content/uploads/2019/01/podcast-icon.png" alt="podcast" width="3%" />  
    
@@ -49,8 +47,6 @@ Feel free to grab a copy of my [resume](https://drive.google.com/file/d/10_o6X0m
 - [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e)
 - [Machine Learning for Absolute Beginners](https://www.amazon.co.uk/Machine-Learning-Absolute-Beginners-Introduction/dp/B08RR7GC3C/ref=pd_lpo_1?pd_rd_i=B08RR7GC3C&psc=1)
 - [Machine Learning Guide](https://ocdevel.com/mlg)
-- [Sololearn: Machine Learning Course](https://www.sololearn.com/learning/1094)
-- [Building Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python)
 
 ### Publications:
 - Position before submission? Techniques and tactics in competitive no-gi Brazilian Jiu-Jitsu (Under review)
