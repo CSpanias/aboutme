@@ -26,8 +26,6 @@ Feel free to grab a copy of my [resume](https://drive.google.com/file/d/10_o6X0m
 *Open University & Future Learn*
 - [Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science) <br>
 *Codecademy*
-- [Intro to Machine Learning with TensorFlow (Scholarship receiver)](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) <br>
-*University of Bertelsmann & Udacity*  
 - [Skills Bootcamp in Artificial Intelligence](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/) <br>
 *University of Huddersfield & Institute of Coding*
 - [Data Science (BSc)](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38) <br>
