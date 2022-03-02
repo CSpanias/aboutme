@@ -22,8 +22,6 @@ Feel free to grab a copy of my [resume](https://drive.google.com/file/d/10_o6X0m
 
 <img src="https://pic.onlinewebfonts.com/svg/img_216768.png" alt="studying" width="3%"/> 
 
-- [AWS: Machine Learning Foundations](https://www.futurelearn.com/microcredentials/aws-machine-learning-foundations) <br>
-*Open University & Future Learn*
 - [Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science) <br>
 *Codecademy*
 - [Skills Bootcamp in Artificial Intelligence](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/) <br>
