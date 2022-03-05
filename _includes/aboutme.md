@@ -1,6 +1,6 @@
 <a href="https://ibb.co/RPHxprT"><img src="https://i.ibb.co/RPHxprT/molly.jpg" border="0" alt="Avatar"></a>
 
-[LinkedIn](https://www.linkedin.com/in/charalamposspanias/) \| [Kaggle](https://www.kaggle.com/cspanias) \| [Chess](https://www.chess.com/member/spaniasch) \| [BJJ](https://smoothcomp.com/en/profile/101916) \| spaniascharalampos@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/charalamposspanias/) \| [Kaggle](https://www.kaggle.com/cspanias) \| [Chess](https://www.chess.com/member/spaniasch) \| [BJJ](https://smoothcomp.com/en/profile/101916) \| [spaniascharalampos@gmail.com](spaniascharalampos@gmail.com)  
 
 Feel free to grab a copy of my [resume](https://drive.google.com/file/d/10_o6X0mdp6ivJW7FZl-7LnuP01U0OtPI/view?usp=sharing) while you are here.
 
