@@ -16,7 +16,9 @@ __Ongoing__ <br>
 
 [Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science) | [Skills Bootcamp in Artificial Intelligence](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/) | [Data Science (BSc)](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38)
 
+
 <img src="https://www.clipartmax.com/png/full/218-2188573_reading-filled-icon-reading-logo-black-png.png" alt="reading" width="3%" /> [Deep Learning with Python (2nd Ed.)](https://www.manning.com/books/deep-learning-with-python) | [NLTK](https://www.nltk.org/book/)  
+
 
 <img src="https://datarespons.com/wp-content/uploads/2019/01/podcast-icon.png" alt="podcast" width="3%" /> [Talking Machines](http://www.thetalkingmachines.com/) | [Learning Machines 101](https://www.learningmachines101.com/)  
 
