@@ -17,10 +17,8 @@ Python | VCS | Notebooks | Microsoft Office | R | SQL | AWS
 [Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science) \| [Skills Bootcamp in Artificial Intelligence](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/) \| [Data Science (BSc)](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38) \| [Deep Learning with Python (2nd Ed.)](https://www.manning.com/books/deep-learning-with-python) \| [NLTK](https://www.nltk.org/book/)  
 
 ## __Recommended__ 
-[Python Crash Course](https://nostarch.com/pythoncrashcourse2e) \| [Machine Learning for Absolute Beginners](https://www.amazon.co.uk/Machine-Learning-Absolute-Beginners-Introduction/dp/B08RR7GC3C/ref=pd_lpo_1?pd_rd_i=B08RR7GC3C&psc=1) \| [Machine Learning Guide](https://ocdevel.com/mlg) \| [Talking Machines](http://www.thetalkingmachines.com/) \| [Learning Machines 101](https://www.learningmachines101.com/)  
+[Python Crash Course](https://nostarch.com/pythoncrashcourse2e) \| [Machine Learning for Absolute Beginners](https://www.amazon.co.uk/Machine-Learning-Absolute-Beginners-Introduction/dp/B08RR7GC3C/ref=pd_lpo_1?pd_rd_i=B08RR7GC3C&psc=1) \| [Machine Learning Guide](https://ocdevel.com/mlg) \| [Deep Learning Fundamentals](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
 
 ## __Publications__
 1. Position before submission? Techniques and tactics in competitive no-gi Brazilian Jiu-Jitsu (Under review)
-2. [Anthropometric and Physiological Profile of Mixed Martial Art Athletes: A Brief Review](https://www.mdpi.com/2075-4663/7/6/146) (2019)  
-
-
+2. [Anthropometric and Physiological Profile of Mixed Martial Art Athletes: A Brief Review](https://www.mdpi.com/2075-4663/7/6/146) (2019)
