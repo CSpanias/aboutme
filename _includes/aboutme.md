@@ -5,6 +5,12 @@ spaniascharalampos@gmail.com
 
 Feel free to grab a copy of my [resume](https://drive.google.com/file/d/10_o6X0mdp6ivJW7FZl-7LnuP01U0OtPI/view?usp=sharing) while you are here.
 
+### Communities Involved:
+- [DPhi](https://dphi.tech/community/)
+- [MLSpace](https://discord.com/invite/4RMwz64gdH)
+- [Codecademy](https://www.codecademy.com/)
+- [Omdena](https://omdena.com/)
+
 ### Tools: 
 - Python <br>
 *pandas, numpy, sklearn, nltk, gensim, spacy, re, seaborn, matplotlib, scipy, tensorflow, keras, beautifulsoup, sqlite3*
