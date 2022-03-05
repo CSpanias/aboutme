@@ -5,60 +5,27 @@ spaniascharalampos@gmail.com
 
 Feel free to grab a copy of my [resume](https://drive.google.com/file/d/10_o6X0mdp6ivJW7FZl-7LnuP01U0OtPI/view?usp=sharing) while you are here.
 
-### Communities Involved:
-- [DPhi](https://dphi.tech/community/)
-- [MLSpace](https://discord.com/invite/4RMwz64gdH)
-- [Codecademy](https://www.codecademy.com/)
-- [Omdena](https://omdena.com/)
+__Communities Involved__ <br>
+[DPhi](https://dphi.tech/community/) | [MLSpace](https://discord.com/invite/4RMwz64gdH) | [Codecademy](https://www.codecademy.com/) | [Omdena](https://omdena.com/)
 
-### Tools: 
-- Python <br>
-*pandas, numpy, sklearn, nltk, gensim, spacy, re, seaborn, matplotlib, scipy, tensorflow, keras, beautifulsoup, sqlite3*
-- Version Control Systems <br>
-*Git, GitHub, DogsHub*
-- Notebooks <br>
-*Jupyter Notebook, Google Colab*
-- Microsoft Office <br>
-*Word, Excel, Powerpoint, Access*
-- R
-- SQL
-- AWS
+__Tools__ <br>
+Python | VCS | Notebooks | Microsoft Office | R | SQL | AWS
 
-### Currently busy with:
+__Ongoing__ <br>
 
-<img src="https://pic.onlinewebfonts.com/svg/img_216768.png" alt="studying" width="3%"/> 
+<img src="https://pic.onlinewebfonts.com/svg/img_216768.png" alt="studying" width="3%"/> [Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science) | [Skills Bootcamp in Artificial Intelligence](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/) | [Data Science (BSc)](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38)
 
-- [Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science) <br>
-*Codecademy*
-- [Skills Bootcamp in Artificial Intelligence](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/) <br>
-*University of Huddersfield & Institute of Coding*
-- [Data Science (BSc)](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38) <br>
-*Open University*
+<img src="https://www.clipartmax.com/png/full/218-2188573_reading-filled-icon-reading-logo-black-png.png" alt="reading" width="3%" /> [Deep Learning with Python (2nd Ed.)](https://www.manning.com/books/deep-learning-with-python) | [NLTK](https://www.nltk.org/book/)  
 
-<img src="https://www.clipartmax.com/png/full/218-2188573_reading-filled-icon-reading-logo-black-png.png" alt="reading" width="3%" />  
+<img src="https://datarespons.com/wp-content/uploads/2019/01/podcast-icon.png" alt="podcast" width="3%" /> [Talking Machines](http://www.thetalkingmachines.com/) | [Learning Machines 101](https://www.learningmachines101.com/)  
 
-- [Deep Learning with Python (2nd Ed.)](https://www.manning.com/books/deep-learning-with-python)  
-- [NLTK](https://www.nltk.org/book/)  
+__Recommended__ <br>
 
-<img src="https://datarespons.com/wp-content/uploads/2019/01/podcast-icon.png" alt="podcast" width="3%" />  
-   
-- [Talking Machines](http://www.thetalkingmachines.com/)  
-- [Learning Machines 101](https://www.learningmachines101.com/)  
+<img src="https://static.vecteezy.com/system/resources/thumbnails/000/422/468/small/Multimedia__28107_29.jpg" alt="studying" width="3%"/> [Python Crash Course](https://nostarch.com/pythoncrashcourse2e) | [Machine Learning for Absolute Beginners](https://www.amazon.co.uk/Machine-Learning-Absolute-Beginners-Introduction/dp/B08RR7GC3C/ref=pd_lpo_1?pd_rd_i=B08RR7GC3C&psc=1) | [Machine Learning Guide](https://ocdevel.com/mlg)
 
-### Recommended:
-- [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e)
-- [Machine Learning for Absolute Beginners](https://www.amazon.co.uk/Machine-Learning-Absolute-Beginners-Introduction/dp/B08RR7GC3C/ref=pd_lpo_1?pd_rd_i=B08RR7GC3C&psc=1)
-- [Machine Learning Guide](https://ocdevel.com/mlg)
-
-### Publications:
+__Publications__: <br>
 - Position before submission? Techniques and tactics in competitive no-gi Brazilian Jiu-Jitsu (Under review)
 - [Anthropometric and Physiological Profile of Mixed Martial Art Athletes: A Brief Review](https://www.mdpi.com/2075-4663/7/6/146) (2019)  
 
-### Interested in: 
-- Data Science
-- Machine Learning
-- Natural Language Processing
-- Artificial Intelligence
-- Combat Sports
-- Statistics
-- Research
+__Interested in__ <br>
+Data Science | Machine Learning | Natural Language Processing | Combat Sports | Mathematics | Research
