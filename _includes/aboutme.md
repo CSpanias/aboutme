@@ -7,14 +7,14 @@ Feel free to grab a copy of my [resume](https://drive.google.com/file/d/10_o6X0m
 
 __Communities Involved__ <br>
 
-[DPhi](https://dphi.tech/community/) | [MLSpace](https://discord.com/invite/4RMwz64gdH) | [Codecademy](https://www.codecademy.com/) | [Omdena](https://omdena.com/)
+[DPhi](https://dphi.tech/community/) \| [MLSpace](https://discord.com/invite/4RMwz64gdH) \| [Codecademy](https://www.codecademy.com/) \| [Omdena](https://omdena.com/)
 
 __Tools__ <br>
 Python | VCS | Notebooks | Microsoft Office | R | SQL | AWS
 
 __Ongoing__ <br>
 
-[Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science) | [Skills Bootcamp in Artificial Intelligence](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/) | [Data Science (BSc)](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38)
+[Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science) \| [Skills Bootcamp in Artificial Intelligence](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/) | [Data Science (BSc)](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38)
 
 
 <img src="https://www.clipartmax.com/png/full/218-2188573_reading-filled-icon-reading-logo-black-png.png" alt="reading" width="3%" /> [Deep Learning with Python (2nd Ed.)](https://www.manning.com/books/deep-learning-with-python) | [NLTK](https://www.nltk.org/book/)  
