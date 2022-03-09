@@ -17,7 +17,7 @@ Python | VCS | Notebooks | Microsoft Office | R | SQL | AWS
 [Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science) \| [Skills Bootcamp in AI](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/) \| [Data Science (BSc)](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38) \| [DL with Python (2nd Ed.)](https://www.manning.com/books/deep-learning-with-python) \| [NLTK](https://www.nltk.org/book/)  
 
 ## __Recommended__ 
-[Python Crash Course](https://nostarch.com/pythoncrashcourse2e) \| [ML for Absolute Beginners](https://www.amazon.co.uk/Machine-Learning-Absolute-Beginners-Introduction/dp/B08RR7GC3C/ref=pd_lpo_1?pd_rd_i=B08RR7GC3C&psc=1) \| [ML Guide](https://ocdevel.com/mlg) \| [DL Fundamentals](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
+[Python Crash Course](https://nostarch.com/pythoncrashcourse2e) \| [ML for Absolute Beginners](https://www.amazon.co.uk/Machine-Learning-Absolute-Beginners-Introduction/dp/B08RR7GC3C/ref=pd_lpo_1?pd_rd_i=B08RR7GC3C&psc=1) \| [ML Guide](https://ocdevel.com/mlg) \| [DeepLizard](https://deeplizard.com/)
 
 ## __Publications__
 1. Position before submission? Techniques and tactics in competitive no-gi Brazilian Jiu-Jitsu (Under review)
