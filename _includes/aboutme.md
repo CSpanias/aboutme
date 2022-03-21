@@ -11,7 +11,7 @@ Data Science \| ML \| NLP \| Combat Sports \| Maths \| Research
 [DPhi](https://dphi.tech/community/) \| [MLSpace](https://discord.com/invite/4RMwz64gdH) \| [Codecademy](https://www.codecademy.com/) \| [Omdena](https://omdena.com/)
 
 ## __Tools__ 
-Python | VCS | Notebooks | Microsoft Office | R | SQL | AWS
+Python | VCS | Notebooks | Microsoft Office | R | PostgreSQL | AWS
 
 ## __CPD__ 
 [Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science) \| [Skills Bootcamp in AI](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/) \| [Data Science (BSc)](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38) \| [DL with Python (2nd Ed.)](https://www.manning.com/books/deep-learning-with-python) \| [NLTK](https://www.nltk.org/book/)  
