@@ -14,7 +14,7 @@ Data Science \| ML \| NLP \| Combat Sports \| Maths \| Research
 Python | VCS | Notebooks | Microsoft Office | R | PostgreSQL | AWS
 
 ## __CPD__ 
-[Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science) \| [Data Science (BSc)](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38) \| [DL with Python (2nd Ed.)](https://www.manning.com/books/deep-learning-with-python) \| [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)  
+[Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science) \| [Data Science (BSc)](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38) \| [DL with Python (2nd Ed.)](https://www.manning.com/books/deep-learning-with-python) \| [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) \| DPhi DL Bootcamp (https://dphi.tech/bootcamps/5-week-deep-learning-bootcamp?utm_source=header)
 
 ## __Recommended__ 
 [Python Crash Course](https://nostarch.com/pythoncrashcourse2e) \| [ML for Absolute Beginners](https://www.amazon.co.uk/Machine-Learning-Absolute-Beginners-Introduction/dp/B08RR7GC3C/ref=pd_lpo_1?pd_rd_i=B08RR7GC3C&psc=1) \| [ML Guide](https://ocdevel.com/mlg) \| [DeepLizard](https://deeplizard.com/) \| [Skills Bootcamp in AI](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/)
